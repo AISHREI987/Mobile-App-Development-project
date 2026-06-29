@@ -53,4 +53,5 @@ The **Medical Management System** is an Android application developed as part of
 ## 👩‍💻 Author
 
 **Ayesha Ramzan**
+
 BS Computer Science
